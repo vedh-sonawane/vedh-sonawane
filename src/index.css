@@ -1,0 +1,191 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  @apply bg-midnight-onyx text-slate-100 font-sans antialiased;
+  cursor: none;
+}
+
+/* Custom scrollbar for the cyber-minimalist feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #22d3ee, #7c3aed);
+  border-radius: 9999px;
+}
+
+.glass-panel {
+  @apply bg-slate-900/40 border border-slate-700/60 backdrop-blur-xl;
+}
+
+.scanline-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(148, 163, 184, 0.15) 50%,
+    transparent 100%
+  );
+  mix-blend-mode: soft-light;
+  pointer-events: none;
+  animation: scanline 2s linear infinite;
+}
+
+.terminal-font {
+  font-family: "SF Mono", ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+}
+
+/* Immersive scroll effects */
+.spiral-orbit {
+  position: fixed;
+  inset: auto;
+  left: 50%;
+  top: 20%;
+  width: 520px;
+  height: 520px;
+  margin-left: -260px;
+  background: conic-gradient(
+    from 180deg,
+    rgba(56, 189, 248, 0.12),
+    rgba(129, 140, 248, 0.12),
+    rgba(34, 197, 94, 0.08),
+    rgba(56, 189, 248, 0.18)
+  );
+  border-radius: 9999px;
+  filter: blur(40px);
+  mix-blend-mode: screen;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.6;
+  animation: orbit-spin 40s linear infinite;
+}
+
+.pixel-noise {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image: repeating-linear-gradient(
+      0deg,
+      rgba(15, 23, 42, 0.4) 0px,
+      rgba(15, 23, 42, 0.4) 1px,
+      transparent 1px,
+      transparent 2px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(15, 23, 42, 0.4) 0px,
+      rgba(15, 23, 42, 0.4) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+  mix-blend-mode: soft-light;
+  opacity: 0.25;
+  animation: pixel-shift 1.2s steps(2, end) infinite;
+}
+
+@keyframes orbit-spin {
+  from {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  to {
+    transform: translate3d(0, 0, 0) rotate(360deg);
+  }
+}
+
+@keyframes pixel-shift {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(-2px, 1px, 0);
+  }
+  100% {
+    transform: translate3d(1px, -2px, 0);
+  }
+}
+
+/* Transition overlay: neural burst (View Neural Work) */
+@keyframes neural-burst {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+    filter: blur(0);
+  }
+  30% {
+    opacity: 1;
+    transform: scale(1.5);
+    filter: blur(2px);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(2);
+    filter: blur(8px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(3);
+    filter: blur(20px);
+  }
+}
+
+/* Grid reveal (Skills) */
+@keyframes grid-reveal {
+  0% {
+    opacity: 0;
+    clip-path: inset(50% 50% 50% 50%);
+  }
+  100% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+/* Particle scatter (Projects) */
+@keyframes particle-scatter {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) translateY(0);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2) translateY(-10px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(2) translateY(-30px);
+  }
+}
+
+/* Zen / sensei (Sensei) */
+@keyframes zen-reveal {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.2);
+  }
+}
+
