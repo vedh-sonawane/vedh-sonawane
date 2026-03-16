@@ -1,4 +1,4 @@
-⚡ VEDH SONAWANE | AI Developer & Lead Sensei
+⚡ Hello, I'm Vedh Sonawane | AI Developer & Lead Sensei
 
 <p align="left">
   <img src="https://img.shields.io/badge/PCEP-Certified_Python-blue?style=for-the-badge&logo=python" />
