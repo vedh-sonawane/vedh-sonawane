@@ -341,7 +341,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 ### **Watch the snake write my name**
 
-![Snake Animation](lastgiffinalll.gif)
+<img src="lastgiffinalll.gif" height="100" alt="Rainbow Snake Animation" />
 
 *Rainbow-trail snake drawing V-E-D-H with every contribution*
 
@@ -372,7 +372,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 - 🔥 **Currently Exploring**: Diffusion Models, Transformer Architectures, Reinforcement Learning
 - 📖 **Reading**: "Deep Learning" by Ian Goodfellow, "Designing Data-Intensive Applications"
-- 🎯 **2024 Goals**: Ship 3 production AI systems, mentor 50+ developers, contribute to open-source AI tools
+- 🎯 **2026 Goals**: Ship 3 production AI systems, mentor 50+ developers, contribute to open-source AI tools
 - 💡 **Next Challenge**: Building a real-time multi-modal AI system (vision + NLP + audio)
 
 <br/>
@@ -443,7 +443,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 **⚡ Powered by curiosity, built with code, driven by impact ⚡**
 
-<sub>Last system update: March 2024 | Status: Operational | Next deploy: TBD</sub>
+<sub>Last system update: March 2026 | Status: Operational | Next deploy: TBD</sub>
 
 </div>
 
