@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=System+initializing...;Loading+neural+networks...;Compiling+intelligence+modules...;%3E_+Access+granted.+Welcome+to+the+system." alt="Typing Animation" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/snake-dark.svg" />
-</picture>
-
 <!-- FULL WIDTH HERO IMAGE -->
 ![Dark Forest Hero](https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3)
 
@@ -174,7 +169,7 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 
 ### ♟️ **Challenge Me to Chess**
 
-<a href="https://lichess.org/@/vedh-sonawane">
+<a href="https://lichess.org/@/vedhsonawane">
   <img src="https://img.shields.io/badge/Play_on_Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
 </a>
 
@@ -330,6 +325,25 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedh-sonawane&theme=github_dark" width="98%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+## 🐍 RAINBOW SNAKE
+
+<div align="center">
+
+### **Watch the snake write my name**
+
+![Snake Animation](snake.gif)
+
+*Rainbow-trail snake drawing V-E-D-H with every contribution*
 
 </div>
 
