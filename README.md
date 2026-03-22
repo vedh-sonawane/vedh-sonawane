@@ -10,9 +10,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=System+initializing...;Loading+neural+networks...;Compiling+intelligence+modules...;%3E_+Access+granted.+Welcome+to+the+system." alt="Typing Animation" />
 </p>
 
-<!-- HERO IMAGE WITH GLASSMORPHISM -->
-<div align="center" style="position: relative;">
-  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2013&auto=format&fit=crop" width="100%" style="border-radius: 10px; filter: brightness(0.7);" alt="Dark Forest Banner"/>
+<!-- GLASSMORPHISM HERO -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3">
+    <img width="100%" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3" alt="Dark Forest Background" style="opacity: 0.85; filter: brightness(0.6) contrast(1.1);">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
 </div>
 
 <br/>
@@ -345,11 +352,11 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-## 🐍 CONTRIBUTION ACTIVITY
+## 🐍 CONTRIBUTION TIMELINE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedh-sonawane&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
@@ -397,14 +404,11 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 <a href="mailto:sonawane.vedh14@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/vedh-sonawane">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/vedhsonawane">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 <a href="https://bit.ly/vedh_sonawane">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/vedh-sonawane">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -435,7 +439,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 ### 👁️ **System Access Log**
 
-![Visitor Count](https://profile-counter.glitch.me/vedh-sonawane/count.svg)
+<img src="https://komarev.com/ghpvc/?username=vedh-sonawane&color=00d9ff&style=for-the-badge&label=ACCESS+LOGS" alt="Profile Views" />
 
 <sub>*Tracking anomalies since initialization...*</sub>
 
