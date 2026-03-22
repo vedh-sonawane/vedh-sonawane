@@ -10,11 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=System+initializing...;Loading+neural+networks...;Compiling+intelligence+modules...;%3E_+Access+granted.+Welcome+to+the+system." alt="Typing Animation" />
 </p>
 
-<p>This is the definition of beauty</p>
+<p>This is the true definition of nature...</p>
 
 <!-- FULL WIDTH HERO IMAGE -->
 ![Dark Forest Hero](https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3)
-
 
 <br/>
 
@@ -168,9 +167,24 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 
 <div align="center">
 
+### 🕹️ **Try These Terminal Commands**
+
+```bash
+# Check out my GitHub profile
+curl -s https://api.github.com/users/vedh-sonawane | jq '.'
+
+# See my repositories
+curl -s https://api.github.com/users/vedh-sonawane/repos | jq '.[].name'
+
+# Clone this profile repo
+git clone https://github.com/vedh-sonawane/vedh-sonawane.git
+```
+
+<br/>
+
 ### ♟️ **Challenge Me to Chess**
 
-<a href="https://lichess.org/@/vedhsonawane">
+<a href="https://lichess.org/@/vedh-sonawane">
   <img src="https://img.shields.io/badge/Play_on_Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
 </a>
 
@@ -185,6 +199,60 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 </a>
 
 *Can you draw a perfect circle? Precision matters in code and in chaos.*
+
+<br/><br/>
+
+### 🧠 **Quick AI Quiz**
+
+<details>
+<summary><b>💡 Click to Test Your ML Knowledge</b></summary>
+
+<br/>
+
+**Question 1:** What's the difference between supervised and unsupervised learning?
+
+<details>
+<summary>Show Answer</summary>
+
+**Supervised learning** uses labeled data (input-output pairs) to train models. **Unsupervised learning** finds patterns in unlabeled data without predefined outputs.
+
+Example: 
+- Supervised = Training a spam filter with emails labeled "spam" or "not spam"
+- Unsupervised = Clustering customers into groups based on behavior patterns
+
+</details>
+
+<br/>
+
+**Question 2:** In a neural network, what does backpropagation do?
+
+<details>
+<summary>Show Answer</summary>
+
+**Backpropagation** calculates gradients of the loss function with respect to each weight by applying the chain rule, propagating the error backward through the network. This allows the optimizer to adjust weights to minimize loss.
+
+</details>
+
+<br/>
+
+**Question 3:** What's overfitting and how do you prevent it?
+
+<details>
+<summary>Show Answer</summary>
+
+**Overfitting** occurs when a model learns the training data too well, including noise, and fails to generalize to new data.
+
+**Prevention methods:**
+- Regularization (L1/L2)
+- Dropout layers
+- Early stopping
+- Data augmentation
+- Cross-validation
+- Reducing model complexity
+
+</details>
+
+</details>
 
 <br/><br/>
 
@@ -311,6 +379,21 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 <br/>
 
+### 🎯 **Performance Badges**
+
+<div align="center">
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00d9ff)
+![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=00d9ff)
+![](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=00d9ff)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00d9ff)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=00d9ff)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00d9ff)
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedh-sonawane&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="49%" />
@@ -342,7 +425,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 ### **Watch the snake write my name**
 
-<img src="lastgiffinalll.gif" alt="Rainbow Snake Animation" />
+<img src="lastgiffinalll.gif" width="800" alt="Rainbow Snake Animation" />
 
 *Rainbow-trail snake drawing V-E-D-H with every contribution*
 
@@ -375,6 +458,57 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 - 📖 **Reading**: "Deep Learning" by Ian Goodfellow, "Designing Data-Intensive Applications"
 - 🎯 **2026 Goals**: Ship 3 production AI systems, mentor 50+ developers, contribute to open-source AI tools
 - 💡 **Next Challenge**: Building a real-time multi-modal AI system (vision + NLP + audio)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- RANDOM QUOTE -->
+## 💭 RANDOM DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- GITHUB SKYLINE -->
+## 🏙️ MY CONTRIBUTION SKYLINE
+
+<div align="center">
+
+**2025 in 3D** - Every commit builds the city
+
+[![GitHub Skyline](https://img.shields.io/badge/View_3D_Skyline-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/vedh-sonawane/2025)
+
+*Download your year's commits as a 3D model. Because why not?*
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- DEV JOKE -->
+## 😄 PROGRAMMING HUMOR
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default&hideBorder&qColor=%2300d9ff&aColor=%2300d9ff)
+
+*Refresh the page for a new joke. Laughter is the best debugging tool.*
+
+</div>
 
 <br/>
 
