@@ -129,36 +129,30 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 
 <div align="center">
 
-<!-- These cards will automatically pull from your actual GitHub repositories -->
+### 🚀 **Active Projects & Research**
 
-<a href="https://github.com/vedh-sonawane/Neural-Flux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Neural-Flux&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/vedh-sonawane/Bio-Sync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Bio-Sync&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
-</a>
-
-<a href="https://github.com/vedh-sonawane/Eco-Ledger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Eco-Ledger&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
-</a>
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🌩️ **Neural-Flux** | AI system stress visualizer with real-time bottleneck detection | TensorFlow • Python • Visualization | 🟢 Active |
+| 🦴 **Bio-Sync** | Intelligent posture monitoring using skeletal tracking | MediaPipe • OpenCV • ML | 🟢 Active |
+| ⛓️ **Eco-Ledger** | Blockchain-based sustainability tracker | Solidity • Web3.js • React | 🟡 Development |
+| 🎯 **Vision-API** | Custom computer vision API for image recognition | FastAPI • PyTorch • OpenCV | 🟢 Active |
+| 🧠 **Cognitive-Maps** | Neural network architecture visualization tool | D3.js • TensorFlow • Python | 🟡 Development |
+| 🎮 **Physics-Sim** | Unity-based physics simulation for AI training | Unity • C# • ML-Agents | 🔵 Research |
 
 </div>
 
 <br/>
 
-### 📂 **More Projects**
-
 <div align="center">
 
-*These repository cards dynamically pull from your GitHub account and will display your actual projects with their real stats, stars, and descriptions.*
+### 📊 **Project Stats**
 
-**To add more repo cards**, simply duplicate the pattern above and replace the repo names with your actual repository names. The cards will automatically show:
-- ⭐ Stars count
-- 🍴 Forks count  
-- 📝 Repository description
-- 💻 Primary language
+<img src="https://img.shields.io/badge/Active_Projects-6-00d9ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lines_of_Code-50K+-00d9ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Models_Trained-12+-00d9ff?style=for-the-badge" />
 
-**Current visible repos**: The cards above will either show the repos if they exist, or display an error. Once you create these repositories (Neural-Flux, Bio-Sync, Eco-Ledger), they'll automatically populate!
+**🔗 Explore all repositories**: [github.com/vedh-sonawane](https://github.com/vedh-sonawane?tab=repositories)
 
 </div>
 
@@ -331,29 +325,6 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedh-sonawane&theme=github_dark" width="98%" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- EPIC SNAKE ANIMATION -->
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-### **Watch the snake devour my contributions**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake.svg" />
-</picture>
-
-*The snake grows with every commit. Feed it with code.*
 
 </div>
 
