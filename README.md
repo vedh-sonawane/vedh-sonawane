@@ -341,7 +341,7 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 ### **Watch the snake write my name**
 
-![Snake Animation](snake.gif)
+![Snake Animation](lastgiffinalll.gif)
 
 *Rainbow-trail snake drawing V-E-D-H with every contribution*
 
