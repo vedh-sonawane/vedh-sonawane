@@ -10,13 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=System+initializing...;Loading+neural+networks...;Compiling+intelligence+modules...;%3E_+Access+granted.+Welcome+to+the+system." alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<!-- FULL WIDTH HERO IMAGE -->
+![Dark Forest Hero](https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
 
 <br/>
 
@@ -132,52 +129,38 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 
 <div align="center">
 
-### 🌩️ **Neural-Flux** | AI System Stress Visualizer
-> Real-time neural network load simulation with bottleneck detection  
-> **Stack**: TensorFlow • Python • Real-time Visualization  
-> 
-> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/vedh-sonawane/Neural-Flux)
+<!-- These cards will automatically pull from your actual GitHub repositories -->
 
-**What it does**: Simulates and visualizes computational stress across neural network layers, identifying performance bottlenecks before they impact production systems.
+<a href="https://github.com/vedh-sonawane/Neural-Flux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Neural-Flux&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
+</a>
+<a href="https://github.com/vedh-sonawane/Bio-Sync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Bio-Sync&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
+</a>
 
----
-
-### 🦴 **Bio-Sync** | Intelligent Posture Monitoring
-> Real-time skeletal tracking with ML-powered ergonomic feedback  
-> **Stack**: MediaPipe • OpenCV • TensorFlow • Python  
-> 
-> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/vedh-sonawane/Bio-Sync)
-
-**What it does**: Uses computer vision to track body posture in real-time, providing instant feedback to prevent long-term ergonomic issues. Deployed for remote workers.
-
----
-
-### ⛓️ **Eco-Ledger** | Blockchain Sustainability Tracker
-> Decentralized carbon footprint tracking with smart contracts  
-> **Stack**: Solidity • Web3.js • React • Node.js  
-> 
-> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/vedh-sonawane/Eco-Ledger)
-
-**What it does**: Immutable sustainability tracking system that incentivizes eco-friendly behavior through tokenized rewards and transparent environmental impact data.
+<a href="https://github.com/vedh-sonawane/Eco-Ledger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedh-sonawane&repo=Eco-Ledger&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
+</a>
 
 </div>
 
-<details>
-<summary><b>🔬 View All Projects (12 Active Repositories)</b></summary>
-
 <br/>
 
-- **🎯 Precision Trainer** - ML-based sports performance analyzer
-- **🧠 Cognitive Maps** - Neural network architecture visualization tool
-- **📸 Vision API** - Custom computer vision API for image recognition
-- **🔐 SecureAuth** - Biometric authentication system
-- **🎨 GenArt Engine** - AI-powered generative art platform
-- **📊 DataForge** - Automated data pipeline orchestration
-- **🎮 PhysicsSim** - Unity-based physics simulation environment
-- **🌐 EdgeAI** - Edge computing AI inference optimization
-- **And more...**
+### 📂 **More Projects**
 
-</details>
+<div align="center">
+
+*These repository cards dynamically pull from your GitHub account and will display your actual projects with their real stats, stars, and descriptions.*
+
+**To add more repo cards**, simply duplicate the pattern above and replace the repo names with your actual repository names. The cards will automatically show:
+- ⭐ Stars count
+- 🍴 Forks count  
+- 📝 Repository description
+- 💻 Primary language
+
+**Current visible repos**: The cards above will either show the repos if they exist, or display an error. Once you create these repositories (Neural-Flux, Bio-Sync, Eco-Ledger), they'll automatically populate!
+
+</div>
 
 <br/>
 
@@ -325,6 +308,16 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 <div align="center">
 
+### 🏆 **Achievement Unlocked**
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedh-sonawane&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=vedh-sonawane&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vedh-sonawane&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
 
@@ -347,12 +340,20 @@ Send it to `sonawane.vedh14@gmail.com` with your solution process to prove you s
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-## 🐍 CONTRIBUTION TIMELINE
+<!-- EPIC SNAKE ANIMATION -->
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedh-sonawane&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+### **Watch the snake devour my contributions**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedh-sonawane/vedh-sonawane/output/github-snake.svg" />
+</picture>
+
+*The snake grows with every commit. Feed it with code.*
 
 </div>
 
