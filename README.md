@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedh-sonawane)](https://github.com/vedh-sonawane/github-profile-trophy)
 ⚡ Hello, I'm Vedh Sonawane | AI Developer & Lead Sensei
 
 <p align="left">
