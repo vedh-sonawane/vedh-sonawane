@@ -174,7 +174,7 @@ I specialize in creating **AI-powered systems** that solve real-world problems t
 
 ### ♟️ **Challenge Me to Chess**
 
-<a href="https://lichess.org/@/vedhsonawane">
+<a href="https://lichess.org/@/vedh-sonawane">
   <img src="https://img.shields.io/badge/Play_on_Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
 </a>
 
