@@ -1,42 +1,99 @@
 # Vedh Sonawane
 
-AI engineer and systems builder. I work at the intersection of computer vision, deep learning, and full-stack development — building things that are useful before they're polished.
+Full-stack AI engineer. I build systems that detect patterns, automate decisions, and ship as real products — not just demos.
 
-Currently focused on real-time inference systems, skeletal tracking, and making ML models practical to deploy.
+Based in Toronto · [Portfolio](https://vedh-sonawane.vercel.app/) · [sonawane.vedh14@gmail.com](mailto:sonawane.vedh14@gmail.com)
 
 ---
 
-## What I'm Building
+## Featured Projects
 
-**Neural-Flux** — AI system stress visualizer with real-time bottleneck detection  
-**Bio-Sync** — Posture monitoring system using skeletal tracking and pose estimation  
-**Eco-Ledger** — Blockchain-based sustainability tracker *(in development)*  
-**Cognitive-Maps** — Neural network architecture visualization tool *(in development)*  
-**Physics-Sim** — Physics simulation environment for AI training and agent testing *(research)*
+### [VibeCheck](https://github.com/vedh-sonawane/vibecheck)
+AI-powered team health agent for Slack. Monitors communication metadata to detect burnout, engagement drops, and resignation risk — without ever reading message content. Built with a 30-day predictive model, real-time Canvas dashboards, and Google Calendar MCP integration for meeting overload detection.
+
+`TypeScript` `Node.js` `PostgreSQL` `Slack Bolt` `MCP` `Google Calendar API`
+
+---
+
+### [Sentinel AI](https://github.com/vedh-sonawane/sentinel-ai)
+Multi-agent AI platform for fraud detection and health monitoring. Upload transaction CSVs and get anomaly scores via Isolation Forest / LOF; upload health data and get burnout insights. Includes a vector memory store, AI education mode ("explain like I'm 12"), network fraud graph visualization, and Docker deployment.
+
+`Python` `FastAPI` `Next.js` `LangChain` `PostgreSQL` `Chroma` `Docker`
+
+---
+
+### [Neural-Flux](https://github.com/vedh-sonawane/neural-flux) · [Live](https://neural-flux-rg5p.vercel.app/)
+Fast-paced web game where you play as an AI managing real user requests under time pressure. Requests are AI-generated on the fly — difficulty scales as the queue builds. Built and deployed in days.
+
+`TypeScript` `React` `Tailwind` `Claude API` `Vite`
+
+---
+
+### [Prompt-Deck](https://github.com/vedh-sonawane/prompt-deck)
+Generates complete, styled Google Slides presentations from a single text prompt. Pulls real images, applies dynamic themes, and exports a ready-to-present deck.
+
+`TypeScript` `Next.js` `FastAPI` `Groq` `Google Slides API`
+
+---
+
+### [Bytee](https://github.com/vedh-sonawane/bytee)
+Fridge and pantry tracker that sends smart expiry alerts before food goes bad and suggests recipes based on what you already have.
+
+`TypeScript` `React`
+
+---
+
+### [AquaPress](https://github.com/vedh-sonawane/aquapress)
+Hydraulic waste compaction system — reduces bin volume for homes, businesses, and public facilities using fluid power. Full-stack implementation with product concept and technical spec.
+
+`TypeScript`
+
+---
+
+### ML From Scratch
+Implementations of core ML algorithms built from first principles — no sklearn shortcuts.
+
+[Linear Regression](https://github.com/vedh-sonawane/linear-regression) · [KNN](https://github.com/vedh-sonawane/knn-nearest-neighbours) · [SVM](https://github.com/vedh-sonawane/svm-support-vector-machines) · [Classification Diagnostics](https://github.com/vedh-sonawane/classification-model-diagnostic-simulator)
+
+`Python` `NumPy`
 
 ---
 
 ## Tech
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Rust](https://skillicons.dev/icons?i=rust&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,rust,java&theme=dark" />
 
 ### AI / ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+&nbsp;
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![Vue](https://skillicons.dev/icons?i=vue&theme=dark) ![Three.js](https://skillicons.dev/icons?i=threejs&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,threejs,tailwind,flutter&theme=dark" />
 
 ### Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgresql,mongodb,firebase,redis&theme=dark" />
 
 ### Tools
-![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Figma](https://skillicons.dev/icons?i=figma&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+<img src="https://skillicons.dev/icons?i=git,docker,linux,figma,vscode&theme=dark" />
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedh-sonawane&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedh-sonawane&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedh-sonawane&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="49%" />
+</div>
 
 ---
 
@@ -48,7 +105,7 @@ Currently focused on real-time inference systems, skeletal tracking, and making 
 |-----------|----------|------|
 | Slack Agent Builder Challenge | Online | 2026 |
 | UiPath AgentHack | Online | 2026 |
-| H0: Hack the Zero Stack | Online | 2026 |
+| H0: Hack the Zero Stack (Vercel + AWS) | Online | 2026 |
 | EurekaHacks 2026 | Waterloo, Canada | May 2026 |
 | GenAI Genesis 2026 | Toronto, Canada | Mar 2026 |
 | DeltaHacks 12 | Hamilton, Canada | Jan 2026 |
@@ -60,13 +117,13 @@ Currently focused on real-time inference systems, skeletal tracking, and making 
 
 - Exploring diffusion models, transformer architectures, and reinforcement learning
 - Reading: *Deep Learning* — Goodfellow et al. · *Designing Data-Intensive Applications* — Kleppmann
-- Goal: ship production-ready versions of Neural-Flux and Bio-Sync, contribute to open-source ML tooling
-- Mentoring early-stage developers learning AI/ML fundamentals
+- Building toward production AI systems with real users and real deployment
+- Mentoring early-stage developers in AI/ML fundamentals
 
 ---
 
-## Contact
+## Connect
 
-[sonawane.vedh14@gmail.com](mailto:sonawane.vedh14@gmail.com) · [Portfolio](https://vedh-sonawane-nfc.vercel.app/) · [GitHub](https://github.com/vedh-sonawane)
+[LinkedIn](https://linkedin.com/in/vedh-sonawane-60a0753bb) · [Devpost](https://devpost.com/sonawane-vedh14) · [GitHub](https://github.com/vedh-sonawane) · [Portfolio](https://vedh-sonawane.vercel.app/)
 
-Open to: AI/ML collaborations, computer vision projects, sustainable tech, and hackathon teams.
+Open to AI/ML collaborations, hackathon teams, and problems worth building on.
