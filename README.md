@@ -5,9 +5,6 @@ Full-stack AI engineer. I build systems that detect patterns, automate decisions
 Based in Toronto · [Portfolio](https://vedh-sonawane.vercel.app/) · [sonawane.vedh14@gmail.com](mailto:sonawane.vedh14@gmail.com)
 
 ---
-`TypeScript`
-
----
 
 ### ML From Scratch
 Implementations of core ML algorithms built from first principles — no sklearn shortcuts.
@@ -65,6 +62,6 @@ Implementations of core ML algorithms built from first principles — no sklearn
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/vedh-sonawane-60a0753bb) · [Devpost](https://devpost.com/sonawane-vedh14) · [GitHub](https://github.com/vedh-sonawane) · [Portfolio](https://vedh-sonawane.vercel.app/)
+[LinkedIn](https://linkedin.com/in/vedh-sonawane-60a0753bb) · [Devpost](https://devpost.com/sonawane-vedh14) · [Portfolio](https://vedh-sonawane.vercel.app/)
 
 Open to AI/ML collaborations, hackathon teams, and problems worth building on.
