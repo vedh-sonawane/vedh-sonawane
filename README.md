@@ -2,7 +2,7 @@
 
 Full-stack AI engineer. I build systems that detect patterns, automate decisions, and ship as real products. Not just demos.
 
-Based in Toronto · [Portfolio](https://vedh-sonawane.vercel.app/) 
+Based in Toronto · [Portfolio]((https://vedh-s.vercel.app/)) 
 
 ---
 
