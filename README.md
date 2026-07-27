@@ -62,6 +62,6 @@ Implementations of core ML algorithms built from first principles — no sklearn
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/vedh-sonawane-60a0753bb) · [Devpost](https://devpost.com/sonawane-vedh14) · [Portfolio](https://vedh-sonawane.vercel.app/)
+[LinkedIn](https://linkedin.com/in/vedh-sonawane-60a0753bb) · [Devpost](https://devpost.com/sonawane-vedh14) · [Portfolio](https://vedh-s.vercel.app/)
 
 Open to AI/ML collaborations, hackathon teams, and problems worth building on.
