@@ -54,7 +54,7 @@ Implementations of core ML algorithms built from first principles — no sklearn
 ## Currently
 
 - Exploring diffusion models, transformer architectures, and reinforcement learning
-- Reading: *Deep Learning* — Goodfellow et al. · *Designing Data-Intensive Applications* — Kleppmann
+- Reading: *Deep Learning* --> Goodfellow et al. · *Designing Data-Intensive Applications* --> Kleppmann
 - Building toward production AI systems with real users and real deployment
 - Mentoring early-stage developers in AI/ML fundamentals
 
